@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World, I'm Marta. 👋
+
+- 🔨 I’m working on an app that helps you manage your waste 
+- 🌱 I'm interested in art and design
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/marta-solomianko/)
+
+
+
+
 
 <!--
 **MartaSolomianko/MartaSolomianko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
