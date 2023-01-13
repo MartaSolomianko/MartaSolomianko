@@ -1,7 +1,8 @@
 ### Hello World, I'm Marta. 👋
 
-- 🔨 I’m working on an app that helps you manage your waste 
-- 🌱 I'm interested in all things related to art and design
+- 🧵 I’m an upholsterer turned software engineer
+- 🌱 I am interested in all things related to art and design
+- 🔨 In my spare time, I'm working on an app that helps you manage your waste 
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/marta-solomianko/)
 
 
